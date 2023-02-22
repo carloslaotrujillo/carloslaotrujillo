@@ -47,4 +47,4 @@ My name is Carlos and I work as a Full Stack Engineer for Wink News. I enjoy sol
 
 ### Support My Addiction
 
-<a href="https://www.buymeacoffee.com/carlostrujillo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/carlostrujillo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" target="_blank" /></a>
