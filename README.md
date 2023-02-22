@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos Trujillo
 Full Stack Engineer
 -------------------
 
-My name is Carlos and I work as a Full Stack Engineer for Sun Broadcasting. I enjoy solving problems; writing code and managing Linux containers is just a fun way to channel it. I have a Bachelor's in Automation Engineering, and my motto is "It can always be better." I love a good challenge, especially those that scratch the back of your head even when you're away from the keyboard. I love spending my free time playing soccer, writing, and enjoying music.
+My name is Carlos and I work as a Full Stack Engineer for Wink News. I enjoy solving problems; writing code and managing Linux containers is just a fun way to channel it. I have a Bachelor's in Automation Engineering, and my motto is "It can always be better." I love a good challenge, especially those that scratch the back of your head even when you're away from the keyboard. I love spending my free time playing soccer, writing, and enjoying music.
 
 * 🌍  I'm based in Florida, US
 * ✉️  You can contact me at [krloslao90@gmail.com](mailto:krloslao90@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/realcarlostrujillo/)
