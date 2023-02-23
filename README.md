@@ -31,7 +31,8 @@ My name is Carlos and I work as a Full Stack Engineer for Wink News. I enjoy sol
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/qZZ.svg" width="36" height="36" alt="Netxjs" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/qZZ.svg" width="36" height="36" alt="Netxjs" />
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/storybook.dark.svg" width="36" height="36" alt="Storybook" /></a>
 <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" width="36" height="36" alt="Apollo Client" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="36" height="36" alt="Babel" /></a>
