@@ -16,7 +16,7 @@ My name is Carlos and I work as a Full Stack Engineer for Wink News. I enjoy sol
 * ✉️  You can contact me at [krloslao90@gmail.com](mailto:krloslao90@gmail.com), or on [LinkedIn](https://www.linkedin.com/in/realcarlostrujillo/)
 <!-- * 🖥️  See my portfolio at [RealCarlosTrujillo.com](http://realcarlostrujillo.com) -->
   
-<img src="https://file.io/4FMxR9moImfZ" alt="Skills" />
+<img src="https://raw.githubusercontent.com/realcarlostrujillo/realcarlostrujillo/main/assets/Skills_screen.png" alt="Skills" />
 
 ### Support My Addiction
 
