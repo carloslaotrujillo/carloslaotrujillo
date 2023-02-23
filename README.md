@@ -4,8 +4,8 @@ Hi 👋 My name is Carlos Trujillo
 Full Stack Engineer
 -------------------
 
-[![Twitter: CarlosTrujillo](https://img.shields.io/twitter/follow/realcarlostru?style=social)](https://twitter.com/realcarlostru)
-[![Linkedin: Carlos Trujillo](https://img.shields.io/badge/-CarlosTrujillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/realcarlostrujillo/)
+[![Linkedin: Carlos Trujillo](https://img.shields.io/badge/-realcarlostrujillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/realcarlostrujillo/)
+[![Twitter: CarlosTrujillo](https://img.shields.io/twitter/follow/realcarlostru?label=%40realcarlostru&style=social)](https://twitter.com/realcarlostru)
 [![GitHub Carlos Trujillo](https://img.shields.io/github/followers/realcarlostrujillo?label=follow&style=social)](https://github.com/realcarlostrujillo)
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC70v3MwS7-jij0UfsdiXYAw?style=social)](https://www.youtube.com/channel/UC70v3MwS7-jij0UfsdiXYAw) -->
 
