@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos Trujillo
 Full Stack Engineer
 -------------------
 
-My name is Carlos and I work as a Full Stack Engineer for Wink News. I enjoy solving problems; writing code and managing Linux containers is just a fun way to channel it. I have a Bachelor's in Automation Engineering, and my motto is "It can always be better." I love a good challenge, especially those that scratch the back of your head even when you're away from the keyboard. I spend my free time playing soccer, reading, and enjoying music.
+Talented fullstack engineer with a passion for building robust and user-friendly web applications. Proficient in front-end technologies such as ReactJS and Redux, as well as back-end frameworks such as ExpressJS. Adept at using databases such as PostgreSQL and MongoDB to manage and store data. Experienced in developing APIs and integrating third-party services such as Stripe and Twilio. Strong collaboration and interpersonal skills, with a commitment to delivering high-quality work that meets project requirements.
 
 * 🌍  I'm based in Florida, US
 * 🚀  Get my PDF resume [here](https://github.com/realcarlostrujillo/realcarlostrujillo/raw/main/assets/Resume.pdf)
