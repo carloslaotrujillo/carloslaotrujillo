@@ -8,7 +8,6 @@ My name is Carlos and I work as a Full Stack Engineer for Wink News. I enjoy sol
 
 * 🌍  I'm based in Florida, US
 * 🚀  Get my PDF resume [here](https://github.com/realcarlostrujillo/realcarlostrujillo/raw/main/assets/Resume.pdf)
-* 🖥️  See my portfolio at [realcarlostrujillo.com](http://realcarlostrujillo.com)
   
 <img src="https://raw.githubusercontent.com/realcarlostrujillo/realcarlostrujillo/main/assets/Skills_screen.png" alt="Skills" />
 
