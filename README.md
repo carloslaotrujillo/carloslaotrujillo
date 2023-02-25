@@ -10,6 +10,9 @@ Talented fullstack engineer with a passion for building robust and user friendly
 
 <br>
 
+<div style="display: flex; width: 100%; flex-wrap: wrap;">
+<div style="width: 50%; margin-bottom: 2rem">
+
 ### Frontend
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -33,7 +36,9 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 
-<br>
+
+</div>
+<div style="width: 50%;">
 
 ### Backend
   
@@ -52,7 +57,8 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/strapi.svg" width="36" height="36" alt="Strapi" /></a>
 <a href="https://wpvip.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/WPVIP.svg" width="36" height="36" alt="Wordpress VIP" /></a>
 
-<br>
+</div>
+<div style="width: 50%; margin-bottom: 2rem">
 
 ### DevOps
   
@@ -70,7 +76,8 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/vercel-white.svg" width="36" height="36" alt="Vercel" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="36" height="36" alt="Linux" /></a>
   
-<br>
+</div>  
+<div style="width: 50%;">
 
 ### Testing
 
@@ -80,7 +87,8 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" width="36" height="36" alt="Chai" /></a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/cypress-white.svg" width="36" height="36" alt="Cypress" /></a>
 
-<br>
+</div>
+<div style="width: 50%; margin-bottom: 1rem">
 
 ### Tooling
 
@@ -98,13 +106,18 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/jira.svg" width="36" height="36" alt="Jira" /></a>
 <a href="https://asana.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/asana.svg" width="36" height="36" alt="Asana" /></a>
 
-<br>
+</div>
+<div style="width: 50%;">
 
 ### UI/UX  
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</div>
+
+
+</div>
 
 <br>
 
