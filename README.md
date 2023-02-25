@@ -8,8 +8,6 @@ Talented fullstack engineer with a passion for building robust and user friendly
 * 🌍  I'm based in Florida, US
 * 🚀  Get my PDF resume [here](https://github.com/realcarlostrujillo/realcarlostrujillo/raw/main/assets/Resume.pdf)
 
-<br>
-
 <div style="display: flex; width: 100%; flex-wrap: wrap;">
 <div style="width: 50%; margin-bottom: 2rem">
 
