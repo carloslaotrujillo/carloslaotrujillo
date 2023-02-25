@@ -53,7 +53,7 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/wordpress.svg" width="36" height="36" alt="Wordpress" /></a>
 <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/strapi.svg" width="36" height="36" alt="Strapi" /></a>
-<a href="https://wpvip.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/WPVIP.svg" width="36" height="36" alt="Wordpress VIP" /></a>
+<a href="https://wpvip.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/WPVIP.svg" width="36" height="36" alt="Wordpress VIP" /></a>
 
 </div>
 <div style="width: 50%; margin-bottom: 2rem">
