@@ -96,7 +96,8 @@ Talented fullstack engineer with a passion for building robust and user friendly
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" width="36" height="36" alt="GitKraken" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="36" height="36" alt="npm" /></a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" width="36" height="36" alt="Yarn" /></a>
-<a href="https://newrelic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="36" height="36" alt="NewRelic" /></a><br>
+<a href="https://github.com/nvm-sh/nvm" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/nvm.svg" width="36" height="36" alt="nvm" /></a><br>
+<a href="https://newrelic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="36" height="36" alt="NewRelic" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="36" height="36" alt="Browserstack" /></a>
 <a href="https://responsively.app/" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/responsively.svg" width="36" height="36" alt="Responsively" /></a>
