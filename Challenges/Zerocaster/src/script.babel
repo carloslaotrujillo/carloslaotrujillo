@@ -1,5 +1,0 @@
-const App = () => {
-  return <div>TODO add your solution here</div>;
-};
-
-ReactDOM.render(<App />, document.getElementById("root"));
