@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos Trujillo
+Carlos Trujillo
 ================================
 
 ## Fullstack Engineer
