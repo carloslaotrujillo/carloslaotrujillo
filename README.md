@@ -1,14 +1,13 @@
 Carlos Trujillo
 ================================
 
-## Fullstack Engineer
+## Fullstack Developer
 
-Talented fullstack engineer with a passion for building robust and user friendly web applications. Proficient in front end technologies such as React and Redux, as well as back end frameworks such as Express. Adept at using databases such as PostgreSQL and MongoDB to manage and store data. Experienced in developing APIs and integrating third party services such as Stripe and Twilio. Strong collaboration and interpersonal skills, with a commitment to delivering high quality work that meets project requirements.
+Fullstack developer with a passion for building robust and user friendly web applications. Proficient in front end technologies such as React and Redux, as well as back end frameworks such as Express. Adept at using databases such as PostgreSQL and MongoDB to manage and store data. Experienced in developing APIs and integrating third party services such as Stripe and Twilio. Strong collaboration and interpersonal skills, with a commitment to delivering high quality work that meets project requirements.
 
 * 🏖️   I'm based in Florida, US
 * 💼   Get my PDF resume [here](https://realcarlostrujillo.github.io/realcarlostrujillo/assets/resume.pdf)
-* 👨‍💻   Know more about me [here](https://realcarlostrujillo.com) 
-* 📜   Read my blog [here](https://carlostrujillojs.com) 
+* 👨‍💻   Know more about me [here](https://realcarlostrujillo.com)
 
 <div style="display: flex; width: 100%; flex-wrap: wrap;">
 <div style="width: 50%; margin-bottom: 2rem">
