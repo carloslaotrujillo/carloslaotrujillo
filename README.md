@@ -1,13 +1,13 @@
-Carlos Trujillo
+Charles La O
 ================================
 
 ## Fullstack Developer
 
-Fullstack engineer with expertise in frontend (Javascript, React, Redux) and backend (Node.js, Express, PHP) technologies. Skilled in PostgreSQL, MongoDB, API development, and integrating services like Stripe and Twilio. Proficient in DevOps with Docker, Kubernetes, and AWS for efficient deployment and scaling. Strong in collaboration, committed to delivering high-quality, user-friendly web applications.
+I am a fullstack JavaScript/Node.js developer with over 5 years of commercial development and freelancing. My main tech stack is React for frontend and Express (Node.js) for backend. I had lead experience and managed a team of five people on a daily basis. I quickly adapt to new projects, and I always try to deeply understand development and business logic of the project.
 
 * 🏖️   I'm based in Florida, US
-* 💼   Get my PDF resume [here](https://realcarlostrujillo.github.io/realcarlostrujillo/assets/resume.pdf)
-* 👨‍💻   Know more about me [here](https://realcarlostrujillo.com)
+* 💼   Get my PDF resume [here](https://charleslaot.github.io/charleslaot/assets/resume.pdf)
+* 👨‍💻   Know more about me [here](https://charleslaot.com)
 
 <div style="display: flex; width: 100%; flex-wrap: wrap;">
 <div style="width: 50%; margin-bottom: 2rem">
