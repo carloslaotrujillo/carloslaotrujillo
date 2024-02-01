@@ -5,4 +5,3 @@ Charles La O
 
 * 🏖️   I'm based in Florida, US
 * 💼   Get my PDF resume [here](https://charleslaot.github.io/charleslaot/assets/resume.pdf)
-* 👨‍💻   Know more about me [here](https://charleslaot.com)
