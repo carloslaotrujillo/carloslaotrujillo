@@ -1,7 +1,7 @@
 Charles La O
 ================================
 
-## Fullstack Developer
+## Software Developer
 
 🏖️    I'm based in Florida, US
 
