@@ -210,7 +210,7 @@ function Resume() {
       logo: sorba_ai,
       start: '2018',
       end: '2019',
-    }, 
+    },
   ]
 
   return (
@@ -224,7 +224,11 @@ function Resume() {
           <Role key={roleIndex} role={role} />
         ))}
       </ol>
-      <Button href="https://charleslaot.github.io/charleslaot/assets/resume.pdf" variant="secondary" className="group mt-6 w-full">
+      <Button
+        href="https://raw.githubusercontent.com/charleslaot/charleslaot/main/assets/Charles_L_Resume.pdf"
+        variant="secondary"
+        className="group mt-6 w-full"
+      >
         Download CV
         <ArrowDownIcon className="h-4 w-4 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
       </Button>
@@ -274,14 +278,16 @@ export default async function Home() {
               <li>I'm based in Florida. 🏖️</li>
               <li>I build apps with code. 🖥️</li>
               <li>Playing guitar when possible. 🎸</li>
-              <li>FIFA World Cup fanatic 🏆. Let's go crazy every four years! ⚽</li>
+              <li>
+                FIFA World Cup fanatic 🏆. Let's go crazy every four years! ⚽
+              </li>
             </ul>
           </p>
           <div className="mt-6 flex gap-6">
-            <SocialLink 
-              href="https://twitter.com/charles_laot" 
-              aria-label="Follow on X" 
-              icon={XIcon} 
+            <SocialLink
+              href="https://twitter.com/charles_laot"
+              aria-label="Follow on X"
+              icon={XIcon}
             />
             <SocialLink
               href="https://www.instagram.com/charleslaot/"
