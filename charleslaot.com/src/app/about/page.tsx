@@ -70,7 +70,9 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Charles La O. I live in Florida, where I design the future.
+            Hi!
+            <br />
+            I’m Charles La O.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
@@ -84,12 +86,12 @@ export default function About() {
               what it takes to build them.
             </p>
             <p>
-              Through earning my Bachelor’s Degree in Automation Engineering, my
-              curiosity evolved into a career path. I delved into programming
-              languages like Assembly, Java, and C/C++, and even explored Web
-              Development and PLC programming. Each step reinforced my passion
-              for creating software and understanding the technology that drives
-              our modern lives.
+              Through earning my Bachelor’s Degree in Electrical and Computer
+              Engineering, my curiosity evolved into a career path. I delved
+              into programming languages like Assembly, Java, and C/C++, Web
+              Development and even explored PLC programming. Each step
+              reinforced my passion for creating software and understanding the
+              technology that drives our modern lives.
             </p>
             <p>
               Today, I thrive on the challenge of coding and solving problems.
