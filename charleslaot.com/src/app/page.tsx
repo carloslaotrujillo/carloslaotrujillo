@@ -15,12 +15,11 @@ import {
 import sorba_ai from '@/images/logos/sorba_ai.png'
 import rww from '@/images/logos/rww.png'
 import wink from '@/images/logos/wink.png'
-import logoPlanetaria from '@/images/logos/planetaria.svg'
-import image1 from '@/images/photos/image-1.jpg'
-import image2 from '@/images/photos/image-2.jpg'
-import image3 from '@/images/photos/image-3.jpg'
-import image4 from '@/images/photos/image-4.jpg'
-import image5 from '@/images/photos/image-5.jpg'
+import image1 from '@/images/photos/globe3.jpg'
+import image2 from '@/images/photos/soccer.jpg'
+import image3 from '@/images/photos/code6.jpg'
+import image4 from '@/images/photos/guitar3.jpg'
+import image5 from '@/images/photos/beach4.jpg'
 import { type ArticleWithSlug, getAllArticles } from '@/lib/articles'
 import { formatDate } from '@/lib/formatDate'
 
@@ -273,16 +272,16 @@ export default async function Home() {
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
             Hearthling, Coder, Musician
           </h1>
-          <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+          <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             <ul>
-              <li>I'm based in Florida. 🏖️</li>
+              <li>I’m based in Florida. 🏖️</li>
               <li>I build apps with code. 🖥️</li>
               <li>Playing guitar when possible. 🎸</li>
               <li>
-                FIFA World Cup fanatic 🏆. Let's go crazy every four years! ⚽
+                FIFA World Cup fanatic 🏆. Let’s go crazy every four years! ⚽
               </li>
             </ul>
-          </p>
+          </div>
           <div className="mt-6 flex gap-6">
             <SocialLink
               href="https://twitter.com/charles_laot"
