@@ -5,13 +5,7 @@ import clsx from 'clsx'
 import { Button } from '@/components/Button'
 import { Card } from '@/components/Card'
 import { Container } from '@/components/Container'
-import {
-  GitHubIcon,
-  InstagramIcon,
-  LinkedInIcon,
-  YouTubeIcon,
-  XIcon,
-} from '@/components/SocialIcons'
+import { GitHubIcon, LinkedInIcon, XIcon } from '@/components/SocialIcons'
 import sorba_ai from '@/images/logos/sorba_ai.png'
 import rww from '@/images/logos/rww.png'
 import wink from '@/images/logos/wink.png'
@@ -287,11 +281,6 @@ export default async function Home() {
               href="https://twitter.com/charles_laot"
               aria-label="Follow on X"
               icon={XIcon}
-            />
-            <SocialLink
-              href="https://www.instagram.com/charleslaot/"
-              aria-label="Follow on Instagram"
-              icon={InstagramIcon}
             />
             <SocialLink
               href="https://github.com/charleslaot"
