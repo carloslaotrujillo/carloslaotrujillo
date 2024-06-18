@@ -294,11 +294,6 @@ export default async function Home() {
               icon={InstagramIcon}
             />
             <SocialLink
-              href="https://www.youtube.com/@TheCodeD.O.C"
-              aria-label="Follow on Youtube"
-              icon={YouTubeIcon}
-            />
-            <SocialLink
               href="https://github.com/charleslaot"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}

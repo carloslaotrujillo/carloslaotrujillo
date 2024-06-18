@@ -114,13 +114,6 @@ export default function About() {
               Follow on Instagram
             </SocialLink>
             <SocialLink
-              href="https://www.youtube.com/@TheCodeD.O.C"
-              icon={YouTubeIcon}
-              className="mt-4"
-            >
-              Follow on Youtube
-            </SocialLink>
-            <SocialLink
               href="https://github.com/charleslaot"
               icon={GitHubIcon}
               className="mt-4"
