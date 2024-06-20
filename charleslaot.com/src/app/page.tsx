@@ -276,12 +276,7 @@ export default async function Home() {
               </li>
             </ul>
           </div>
-          <div className="mt-6 flex gap-6">
-            <SocialLink
-              href="https://twitter.com/charles_laot"
-              aria-label="Follow on X"
-              icon={XIcon}
-            />
+          <div className="mt-6 flex gap-6">            
             <SocialLink
               href="https://github.com/charleslaot"
               aria-label="Follow on GitHub"
